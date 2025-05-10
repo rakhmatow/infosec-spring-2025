@@ -2,6 +2,8 @@
 
 This Python script uses the `steghide` Linux tool to hide files inside images or audio and to get them back out.
 
+[Video Demo](./demo.mp4)
+
 ## Prerequisites
 
 * **Linux:** This is for Linux systems. Tested on Debian 12.
